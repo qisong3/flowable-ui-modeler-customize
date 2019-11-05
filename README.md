@@ -14,6 +14,5 @@ module flowable-engine/src/main/resouces/org/flowable/db/create；
 
 ## version update
 
----
-v0.10 2019 11 05 
+v0.1.0 2019 11 05 
 集成flowable-idm，flowable-modeler，flowable-common-ui，合并可实现独立部署的modeler。
