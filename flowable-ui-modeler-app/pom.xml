@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.flowable</groupId>
         <artifactId>flowable-ui-modeler-customize</artifactId>
-        <version>6.4.2</version>
+        <version>0.10-Snapshot</version>
     </parent>
     <artifactId>flowable-ui-modeler-app</artifactId>
     <packaging>jar</packaging>

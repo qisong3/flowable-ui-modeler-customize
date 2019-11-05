@@ -5,6 +5,7 @@
   <name>Flowable Modeler UI</name>
   <artifactId>flowable-ui-modeler-customize</artifactId>
   <packaging>pom</packaging>
+    <version>0.10-Snapshot</version>
   
   <parent>
     <groupId>org.flowable</groupId>

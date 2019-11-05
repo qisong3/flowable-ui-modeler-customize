@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.flowable:flowable-bpmn-model:0.10-Snapshot">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/0.10-Snapshot/flowable-bpmn-model-0.10-Snapshot.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/0.10-Snapshot/flowable-bpmn-model-0.10-Snapshot-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/flowable/flowable-bpmn-model/0.10-Snapshot/flowable-bpmn-model-0.10-Snapshot-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
