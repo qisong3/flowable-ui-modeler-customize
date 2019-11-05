@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-idm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-conf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-logic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler-conf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler-logic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler-rest" charset="UTF-8" />
+  </component>
+</project>

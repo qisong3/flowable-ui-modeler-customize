@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flowable-ui-modeler-logic" />
+        <module name="flowable-ui-idm-rest" />
+        <module name="flowable-ui-common" />
+        <module name="flowable-ui-idm-app" />
+        <module name="flowable-ui-modeler-conf" />
+        <module name="flowable-ui-modeler-rest" />
+        <module name="flowable-ui-modeler-app" />
+        <module name="flowable-ui-idm-logic" />
+        <module name="flowable-ui-idm-conf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flowable-ui-common" target="1.8" />
+      <module name="flowable-ui-idm" target="1.8" />
+      <module name="flowable-ui-idm-app" target="1.8" />
+      <module name="flowable-ui-idm-conf" target="1.8" />
+      <module name="flowable-ui-idm-logic" target="1.8" />
+      <module name="flowable-ui-idm-rest" target="1.8" />
+      <module name="flowable-ui-modeler-app" target="1.8" />
+      <module name="flowable-ui-modeler-conf" target="1.8" />
+      <module name="flowable-ui-modeler-customize" target="1.8" />
+      <module name="flowable-ui-modeler-logic" target="1.8" />
+      <module name="flowable-ui-modeler-rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flowable-ui-idm-app:war">
+    <output-path>$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>flowable-ui-idm-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="flowable-idm.war">
+      <element id="artifact" artifact-name="flowable-ui-idm-app:war exploded" />
+    </root>
+  </artifact>
+</component>
