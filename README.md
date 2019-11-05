@@ -7,13 +7,13 @@
 ## 使用
 
 1. 安装flowable配套数据库（Mysql），可参考flowable项目
-module flowable-engine/src/main/resouces/org/flowable/db/create
+module flowable-engine/src/main/resouces/org/flowable/db/create；
 
-2. 导入项目，先行运行FlowableIdmApplication，再运行FlowableModelerApplication
+2. 导入项目，先行运行FlowableIdmApplication，再运行FlowableModelerApplication。
 
 
 ## version update
 
 ---
 v0.10 2019 11 05 
-集成flowable-idm，flowable-modeler，flowable-common-ui，合并可实现独立部署的modeler
+集成flowable-idm，flowable-modeler，flowable-common-ui，合并可实现独立部署的modeler。
