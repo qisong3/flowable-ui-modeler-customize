@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.flowable:flowable-ui-modeler-logic:0.1.0-Snapshot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flowable-ui-modeler-logic/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/flowable-ui-modeler-logic/flowable-ui-modeler-logic-0.1.0-Snapshot-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/flowable-ui-modeler-logic/flowable-ui-modeler-logic-0.1.0-Snapshot-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
