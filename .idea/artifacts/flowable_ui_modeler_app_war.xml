@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flowable-ui-modeler-app:war">
+    <output-path>$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>flowable-ui-modeler-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="flowable-modeler.war">
+      <element id="artifact" artifact-name="flowable-ui-modeler-app:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -79,9 +79,11 @@
           <element id="archive" name="flowable-ui-idm-logic-6.4.2.jar">
             <element id="module-output" name="flowable-ui-idm-logic" />
           </element>
-          <element id="archive" name="flowable-ui-common-6.4.2.jar">
-            <element id="module-output" name="flowable-ui-common" />
-          </element>
+          <element id="library" level="project" name="Maven: org.flowable:flowable-ui-common:6.4.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:3.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.9" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.11" />
           <element id="library" level="project" name="Maven: com.google.guava:guava:28.0-jre" />
           <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0.1" />
           <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />

@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flowable-ui-common/flowable-ui-common.iml" filepath="$PROJECT_DIR$/flowable-ui-common/flowable-ui-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm.iml" filepath="$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-app/flowable-ui-idm-app.iml" filepath="$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-app/flowable-ui-idm-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-conf/flowable-ui-idm-conf.iml" filepath="$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-conf/flowable-ui-idm-conf.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-logic/flowable-ui-idm-logic.iml" filepath="$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-logic/flowable-ui-idm-logic.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-rest/flowable-ui-idm-rest.iml" filepath="$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-rest/flowable-ui-idm-rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler-app/flowable-ui-modeler-app.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler-app/flowable-ui-modeler-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler-conf/flowable-ui-modeler-conf.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler-conf/flowable-ui-modeler-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-app/flowable-ui-modeler-app.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-app/flowable-ui-modeler-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-conf/flowable-ui-modeler-conf.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-conf/flowable-ui-modeler-conf.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/flowable-ui-modeler-customize.iml" filepath="$PROJECT_DIR$/.idea/flowable-ui-modeler-customize.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler-logic/flowable-ui-modeler-logic.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler-logic/flowable-ui-modeler-logic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler-rest/flowable-ui-modeler-rest.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler-rest/flowable-ui-modeler-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-logic/flowable-ui-modeler-logic.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-logic/flowable-ui-modeler-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-rest/flowable-ui-modeler-rest.iml" filepath="$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-rest/flowable-ui-modeler-rest.iml" />
     </modules>
   </component>
 </project>

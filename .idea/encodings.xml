@@ -8,9 +8,15 @@
     <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-conf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-logic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-idm/flowable-ui-idm-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-modeler-app" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-modeler-conf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-modeler-logic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/flowable-ui-modeler-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-conf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-logic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowable-ui-modeler/flowable-ui-modeler-rest" charset="UTF-8" />
   </component>
 </project>
